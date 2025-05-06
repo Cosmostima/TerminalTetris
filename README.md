@@ -17,4 +17,6 @@ A retro-style, Tetris-inspired terminal game written in pure C++ with no externa
 
 ```bash
 make TETRIS
+
+./TETRIS
 ```
