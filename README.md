@@ -1,5 +1,5 @@
 # TerminalTetris
-C++ Command-line Tetris game, Retro
+C++ Command-line 20x10 Tetris game, Retro
 A retro-style, Tetris-inspired terminal game written in pure C++ with no external libraries. Runs on macOS and Linux terminals, using plain text with `[]` blocks.
 
 ## Features
